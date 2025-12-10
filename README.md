@@ -1,2 +1,2 @@
 # file-management-project
-Projeto com finalidade para estudo.
+Projeto para estudo como finalidade.
